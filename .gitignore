@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow only custom-edited files
+!*.c
+!*.h
+!Makefile
+!Makefile.target
+!.gitignore
+!README.md
+
+*symbols.c
+*symbols.h
